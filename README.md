@@ -1,1 +1,1 @@
-Bienvenid@ al github de los apuntes de la asignatura Ecuaciones Algebraicas. Para obtener los apuntes simplemente descárgeselos clicando en el documento y posteriormente en la esquina superioir derecha.
+Bienvenid@ al github de los apuntes de la asignatura Ecuaciones Algebraicas. Para obtener los apuntes simplemente descárgueselos clicando en el documento y posteriormente en la esquina superior derecha.
